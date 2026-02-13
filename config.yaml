@@ -1,0 +1,12 @@
+name: AbuseIPDB Badge
+version: "1.0"
+slug: abuseipdb_badge
+description: Static page to host AbuseIPDB contributor badge
+startup: services
+boot: auto
+ports:
+  80/tcp: null
+arch:
+  - aarch64
+  - armv7
+  - amd64
