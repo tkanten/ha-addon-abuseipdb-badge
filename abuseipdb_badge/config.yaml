@@ -8,8 +8,8 @@ arch:
 - aarch64
 - amd64
 ports:
-  8920/tcp: 8920
+  80/tcp: 8920
 ports_description:
-  8920/tcp: Web interface
+  80/tcp: Web interface
 discovery:
 - abuseipdbbadge
