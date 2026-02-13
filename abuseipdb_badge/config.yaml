@@ -2,7 +2,7 @@ name: AbuseIPDB Badge
 version: "1.1"
 slug: abuseipdb_badge
 description: Static page to host AbuseIPDB contributor badge
-webui: http://[HOST]:[PORT:3001]
+webui: http://[HOST]:[PORT:8920]
 init: false
 arch:
 - aarch64
